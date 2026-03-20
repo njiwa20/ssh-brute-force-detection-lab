@@ -56,4 +56,20 @@ In this lab environment, the IP was not actually blocked because it was used for
 
 # Evidence
 
-Screenshots are included in the `/evidence` folder.
+### Failed Login Attempts
+![Failed Logins](Image-1.png)
+
+### Source IP Identification
+![IP Logs](Image-2.png)
+
+### Attacker IP Analysis
+![IP Analysis](Image-3.png)
+
+### Successful Login Detection
+![Successful Login](Image-4.png)
+
+### Firewall Attempt
+![Firewall](Image-5.png)
+
+### Splunk Logs
+![Splunk](Splunk-logs.png)
