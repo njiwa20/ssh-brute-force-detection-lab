@@ -85,3 +85,9 @@ This section shows how failed SSH login attempts were analyzed in Splunk to iden
 
 ## Visualization
 ![Brute Force Graph](splunk-graph.png)
+
+# Splunk Investigation
+![Splunk Events](splunk-events.png)
+
+# Attacker IP Investigation
+![IP Investigation](splunk-ip-analysis.png)
