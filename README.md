@@ -73,3 +73,12 @@ In this lab environment, the IP was not actually blocked because it was used for
 
 ### Splunk Logs
 ![Splunk](Splunk-logs.png)
+
+# Splunk Investigation
+
+This section shows how failed SSH login attempts were analyzed in Splunk to identify brute force activity and the source IP behind it.
+ 
+ ## Analysis
+- Multiple failed login attempts observed over time
+- Activity originates from IP: 192.168.183.130
+- Pattern indicates automated brute force attack
