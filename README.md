@@ -82,3 +82,6 @@ This section shows how failed SSH login attempts were analyzed in Splunk to iden
 - Multiple failed login attempts observed over time
 - Activity originates from IP: 192.168.183.130
 - Pattern indicates automated brute force attack
+
+## Visualization
+![Brute Force Graph](splunk-graph.png)
